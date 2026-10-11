@@ -304,7 +304,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">宇都宮市制130年記念イベントの、チアガールのダンス動画</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7vbwmlhbtXM?si=Cvht2rp_Ir_smme8&autoplay=1&mute=1&loop=1&playlist=vbwmlhbtXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvbwmlhbtXM?si=Cvht2rp_Ir_smme8&autoplay=1&mute=1&loop=1&playlist=hvbwmlhbtXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 
